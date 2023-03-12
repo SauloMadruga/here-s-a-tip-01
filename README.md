@@ -572,7 +572,9 @@ tag list, you can print this dict:
 >print(comm.UDT)
 
 </p>
-</Credits>
+</details>
+
+# Credits
 
 All the information contained in this post is detailed in the post:
 https://github.com/dmroeder/pylogix
